@@ -1,0 +1,53 @@
+baseURL = "https://example.com"
+languageCode = "en-us"
+title = "ASPII.xyz"
+theme="archie"
+copyright = "© Autonot"
+pygmentsstyle = "monokai"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+paginate = 5
+
+metaDataFormat = "yaml" 
+
+
+enableEmoji = true
+enableRobotsTXT = true
+
+[params]
+	favicon = "https://img.icons8.com/officel/16/000000/chevron-right.png"
+	mode="toggle"
+	useCDN=false
+	subtitle = "Helloooo welcome to my website thing."
+	description = "This is a semi-decent website I made. You'll find a few miscellaneous things here :)"
+
+[[params.social]]
+name = "GitHub"
+icon = "github"
+url = "https://github.com/autonot"
+
+[[params.social]]
+name = "Twitter"
+icon = "twitter"
+url = "https://twitter.com/autonot2025/"
+
+
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "All Posts"
+url = "/posts"
+weight = 2
+
+[[menu.main]]
+name = "About"
+url = "/about"
+weight = 3
+
+[[menu.main]]
+name = "FAQs"
+url = "/faqs"
+weight = 4
