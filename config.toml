@@ -8,6 +8,8 @@ pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 paginate = 5
 
+themeDir = "themes"
+
 metaDataFormat = "yaml" 
 
 
