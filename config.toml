@@ -19,7 +19,7 @@ enableRobotsTXT = true
 [params]
 	favicon = "https://img.icons8.com/officel/16/000000/chevron-right.png"
 	mode="auto"
-	useCDN=false
+	useCDN=true
 	subtitle = "Helloooo welcome to my website thing."
 	description = "This is a semi-decent website I made. You'll find a few miscellaneous things here :)"
 
