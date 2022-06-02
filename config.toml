@@ -16,6 +16,9 @@ metaDataFormat = "yaml"
 enableEmoji = true
 enableRobotsTXT = true
 
+[taxonomies]
+	tag = "tags"
+
 [params]
 	favicon = "https://img.icons8.com/stickers/344/x--v2.png"
 	mode="auto"
