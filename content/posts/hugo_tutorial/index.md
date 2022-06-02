@@ -104,7 +104,7 @@ When you find a theme you like, click the download button, to be taken to that t
 
 [Here is Archie's GitHub Page.](https://github.com/athul/archie)
 
-To download a theme, go tour your Windows Command Line (cmd.exe, remember?) and go to your **themes** directory.
+To download a theme, go to your Windows Command Line (cmd.exe, remember?) and go to your **themes** directory.
 `cd mysite/themes/` and use Git to add it: `git clone https://github.com/athul/archie.git`
 
 > These instructions work for any theme, just replace the Archie link with the link for the theme you want.
@@ -220,7 +220,7 @@ Click **Create Repository** and it will push the repo to GitHub.
 
 You can keep the repo private.
 
-Go to Netlify, sign up for an account (you can sign it with your GitHub account), and click **Import from Git** in the dashboard.
+Go to Netlify, sign up for an account (you can sign up with your GitHub account), and click **Import from Git** in the dashboard.
 
 ![](NetlifyDashboard.png)
 
