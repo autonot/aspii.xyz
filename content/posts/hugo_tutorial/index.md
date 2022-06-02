@@ -5,7 +5,7 @@ author: Tyler
 date: 2022-05-31
 draft: false
 ---
-## "How did you make this website?"
+**NOTE: I apologize for how long this post is and the quality of the pictures!! Future posts will be better !!**
 
 You may or may not have asked this question, but either way, you may be curious as to how I
 exactly made this website.
