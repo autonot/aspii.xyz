@@ -98,7 +98,7 @@ Now, let's make the site cool looking by adding a theme!
 There are *many, many* themes available in [Hugo's theme directory](https://themes.gohugo.io/). 
 
 I used the Archie theme!
-![](archie_theme.png)
+![](hugo_archie.png)
 
 When you find a theme you like, click the download button, to be taken to that theme's GitHub page.
 
