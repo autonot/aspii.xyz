@@ -1,4 +1,4 @@
-# Good day, netizen. Welcome to ASPII.xyz!
+# Hello. Welcome to ASPII.xyz!
 
 My name is Ty, I'm a 19 year old college sophomore, and I like computers.
 
