@@ -4,6 +4,7 @@ description: A tutorial showing how to make a website in Hugo, if you ever wante
 author: Tyler
 date: 2022-05-31
 draft: false
+tags = ["tutorial"]
 ---
 **NOTE: I apologize for how long this post is and the quality of the pictures!! Future posts will be better !!**
 
