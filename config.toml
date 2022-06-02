@@ -17,7 +17,7 @@ enableEmoji = true
 enableRobotsTXT = true
 
 [params]
-	favicon = "https://img.icons8.com/officel/16/000000/chevron-right.png"
+	favicon = "https://img.icons8.com/stickers/344/x--v2.png"
 	mode="auto"
 	useCDN=true
 	subtitle = "Helloooo welcome to my website thing."
