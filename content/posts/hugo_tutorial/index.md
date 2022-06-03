@@ -7,10 +7,9 @@ draft: false
 ---
 **NOTE: I apologize for how long this post is and the quality of the pictures!! Future posts will be better !!**
 
-You may or may not have asked this question, but either way, you may be curious as to how I
-exactly made this website.
+In this tutorial, I will show you how to make a website with the Hugo static site generator.
 
-So in this tutorial, I'll show you what I did, and how you can make a website too!
+ASPII.xyz (the website you are currently on) is made with Hugo.
 
 It mostly comes down to *Hugo*, which is a static website generator that I used.
 It also comes down to *Markdown*, a way to format text with websites like this one.
