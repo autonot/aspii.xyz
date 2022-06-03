@@ -24,7 +24,7 @@ So, let's get started! :grinning:
 
 ## Step 1: Install a package manager
 
-Unfortunately, doing stuff like this on Windows requires some extra steps in compared to other operating systems.
+Unfortunately, doing stuff like this on Windows requires some extra steps compared to other operating systems.
 You'll have to install a package manager, such as [Chocolatey](https://chocolatey.org/install) or [Scoop](https://scoop.sh/).
 This post will focus on Scoop, as that is what I used.
 
@@ -45,7 +45,7 @@ Next, copy and paste this as well :arrow_down:
 Press Enter, and Scoop will install.
 ![](powershellwithscoop.png)
 
-Now you have Scoop! :grinning: but there is still more to be done!
+Now you have Scoop! but there is still more to be done!
 
 ## Step 2: Installing Git
 
@@ -138,7 +138,7 @@ When you visit http://localhost:1313/ in your web browser, you should see your s
 
 Something cool about Hugo? It's local development server watches for changes you make to your site, and automatically rebuilds it.
 
-Hugo's build speed is *very* fast, you you can see updates in almost real-time. Yep, that's how fast it is.
+Hugo's build speed is *very* fast, and you can see updates in almost real-time. Yep, that's how fast it is.
 
 Now, let's create a blog post!
 
@@ -150,7 +150,7 @@ But regardless, let's add a new blog post our new site.
 
 Go to your **content** folder, and add a new folder titled: **posts**
 
-> You can add another folder to this one, such as oragnizing all posts by year. So in your **posts** folder, you can add a folder title **2022** and add all posts you made in 2022 to this folder.
+> You can add another folder to this one, such as organizing all posts by year. So in your **posts** folder, you can add a folder title **2022** and add all posts you made in 2022 to this folder.
 
 In your **posts** folder, add a new file that ends in `.md`, which is the file extension for Markdown. You can name the file what you want, 
 but it's recommended to use **YYYY-MM-DD-just-a-post.md** syntax.
@@ -203,7 +203,7 @@ There are many ways to deploy static websites like ones made in Hugo, but we'll 
 
 Netlify is a popular deployment service for static websites, more info [here](https://www.netlify.com/).
 
-We'll start but creating a new GitHub repository for our new site.
+We'll start by creating a new GitHub repository for our new site.
 
 First, open GitHub Desktop. If you don't have it, [You can download it here](https://desktop.github.com/).
 
