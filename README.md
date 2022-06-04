@@ -2,7 +2,7 @@
 
 My name is Ty, I'm a 19 year old college sophomore, and I like computers.
 
-This is a repository that hosts the source code for my website. You can find it [here](https://aspii.xyz)
+This is a repository that hosts the source code for my website. You can find it [here](https://aspii.xyz).
 
 I have Asperger's syndrome.
 
