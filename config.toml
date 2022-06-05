@@ -10,7 +10,6 @@ paginate = 5
 
 themeDir = "themes"
 
-metaDataFormat = "yaml" 
 
 
 enableEmoji = true
@@ -56,3 +55,8 @@ weight = 3
 name = "FAQs"
 url = "/faqs"
 weight = 4
+
+[[menu.main]]
+name = "Games"
+url = "/games"
+weight = 5
