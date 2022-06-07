@@ -20,7 +20,7 @@ enableRobotsTXT = true
 
 [params]
 	favicon = "https://img.icons8.com/stickers/344/x--v2.png"
-	mode="auto"
+	mode="toggle"
 	useCDN=true
 	subtitle = "Helloooo welcome to my website thing."
 	description = "This is a semi-decent website I made. You'll find a few miscellaneous things here :)"
