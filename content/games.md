@@ -17,7 +17,7 @@ If you have any questions, let me know. Have fun!
 
 
 
-### Helicopter game
+### Helicopter Game
 **Click to send the helicopter up. Don't crash! (I've crashed several times already...)**
 
 {{< iframe "https://play.idevgames.co.uk/game/helicopter-game" >}}
@@ -28,5 +28,12 @@ If you have any questions, let me know. Have fun!
 ### Reversi
 **Flip your opponent's pieces by trapping them between 2 of your own. Can be played against the computer or between 2 people.**
 {{< iframe "https://playpager.com/embed/reversi" >}}
+
+
+
+
+### Chess
+**A simple chess game. Play against the computer, or play with someone else (do not ask me to play)**
+{{< iframe "https://playpager.com/embed/chess" >}}
 
 
