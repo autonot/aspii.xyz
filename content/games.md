@@ -17,14 +17,6 @@ If you have any questions, let me know. Have fun!
 
 
 
-### Helicopter Game
-**Click to send the helicopter up. Don't crash! (I've crashed several times already...)**
-
-{{< iframe "https://play.idevgames.co.uk/game/helicopter-game" >}}
-
-
-
-
 ### Reversi
 **Flip your opponent's pieces by trapping them between 2 of your own. Can be played against the computer or between 2 people.**
 {{< iframe "https://playpager.com/embed/reversi" >}}
