@@ -11,9 +11,6 @@ In this tutorial, I will show you how to make a website with the Hugo static sit
 
 ASPII.xyz (the website you are currently on) is made with Hugo.
 
-It mostly comes down to *Hugo*, which is a static website generator that I used.
-It also comes down to *Markdown*, a way to format text with websites like this one.
-
 I'll try to keep this as short as possible, but I have a bad habit of writing more than I need to :confounded:
 
 So, let's get started! :grinning:
