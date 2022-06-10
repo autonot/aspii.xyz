@@ -52,6 +52,8 @@ If the games is removed from the original site, it's removed from yours, too. (C
 
 Embedding is usually safe, but you should only embed from trusted websites only.
 
+**Always read the website's Terms and Conditions before you embed a game.**
+
 ## Step 2B: Finding games to add
 
 There are plently of sites that host (and sometimes publish) games made in HTML5. (remember, Flash is dead, RIP)
@@ -63,7 +65,7 @@ Some websites include:
 * https://www.addictinggames.com/embeddable-games/index.jsp
 * https://play.idevgames.co.uk/games
 
-When you find a game you want to add, instead of copying the embed link, copy the URL. (for example, the game Narrow Escape's URL is https://play.idevgames.co.uk/game/narrow-escape)
+When you find a game you want to add, you would typically copy the embed link that it would provide you. Not here! We will be using our own custom shortcode. 
 
 ## Step 3: Adding the game to our site.
 
@@ -80,6 +82,7 @@ date = 2022-06-05
 > Note: This front matter is formatted in TOML instead of YAML. You can tell because of the +++ at the top and bottom. Hugo supports both YAML and TOML.
 
 In your `.md` file, add this line of code to embed the game to your site. We'll use the URL of Geometry Tower, hosted by AddictingGames.com.
+Simply replace the Geometry Tower URL with the URl of the game you want to embed.
 
 ![](iframe_demo.png)
 
