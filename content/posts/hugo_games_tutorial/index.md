@@ -88,9 +88,9 @@ Simply replace the Geometry Tower URL with the URl of the game you want to embed
 
 As you can see, we used the shortcode we made earlier.
 
-If needed, configure your **config.toml** file to make a new page for the games. You can view [my file](https://github.com/autonot/aspii.xyz/blob/main/config.toml) for reference.
+If needed, configure your **config.toml** file to make a new page for the games. You can view [my file](https://github.com/autonot/aspii.xyz/blob/main/config.toml) for reference. However, the steps for doing this may be different, depending on your Hugo theme.
 
-Save the file, and run your site locally. (For more information on how to do this, go [here](https://aspii.xyz/posts/hugo_tutorial/), and go to Step 6.
+Save the file, and run your site locally. (For more information on how to do this, go [here](https://aspii.xyz/posts/hugo_tutorial/), and go to Step 6.)
 
 When you go to your site, you should see the game.
 ![](geometry_tower.png)
