@@ -29,3 +29,8 @@ If you have any questions, let me know. Have fun!
 {{< iframe "https://playpager.com/embed/chess" >}}
 
 
+
+
+### Checkers
+**Also known as draughts. Again, can be played against the computer or between 2 people.**
+{{< iframe "https://playpager.com/embed/checkers" >}}
