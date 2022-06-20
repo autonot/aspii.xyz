@@ -7,12 +7,12 @@ draft: false
 tags: ["tutorial", "hugo"]
 ---
 
-In this tutorial, I'll explaing how to add tags to a post in Hugo.
+In this tutorial, I'll be explaining how to add tags to a post in Hugo.
 
 You can scroll all the way to the bottom of this post to see its tags.
 
 > Note: This tutorial is geared towards those who are using Hugo themes with *header.html* and *footer.html* partials.
->If your theme does not have these, [here's a better tutorial](https://www.jakewiesler.com/blog/hugo-taxonomies)
+> If your theme does not have these, [here's a better tutorial](https://www.jakewiesler.com/blog/hugo-taxonomies)
 
 {{< toc >}}
 
