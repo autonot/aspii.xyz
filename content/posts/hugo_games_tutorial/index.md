@@ -4,6 +4,7 @@ description: A simple tutorial explaining how to enhance a Hugo site by adding i
 author: Tyler
 date: 2022-06-05
 draft: false
+tags: ["tutorial", "hugo"]
 ---
 
 Adding games to your website is one of several ways to make your website more fun.
