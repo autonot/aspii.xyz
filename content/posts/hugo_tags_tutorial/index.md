@@ -7,12 +7,12 @@ draft: false
 tags: ["tutorial", "hugo"]
 ---
 
-In this tutorial, I'll explaing how to add tags to a post in Hugo.
+In this tutorial, I'll be explaining how to add tags to a post in Hugo.
 
 You can scroll all the way to the bottom of this post to see its tags.
 
 > Note: This tutorial is geared towards those who are using Hugo themes with *header.html* and *footer.html* partials.
->If your theme does not have these, [here's a better tutorial](https://www.jakewiesler.com/blog/hugo-taxonomies)
+>If your theme does not have these, [here's a better tutorial](https://www.jakewiesler.com/blog/hugo-taxonomies).
 
 {{< toc >}}
 
@@ -32,7 +32,7 @@ Hugo provides support for tags in the form of **taxonomies**.
 
 A taxonomy is a user-defined grouping of content.
 
-They include tags, as well as categories. In fact, these are two default taxonomies that Hugo supports right out of the gate. More info [here](https://gohugo.io/content-management/taxonomies/#configure-taxonomies)
+They include tags, as well as categories. In fact, these are two default taxonomies that Hugo supports right out of the gate. More info [here](https://gohugo.io/content-management/taxonomies/#configure-taxonomies).
 
 You won't need to edit your config file!
 
@@ -125,7 +125,7 @@ tags: ["testing"]
 
 Add whatever else you want to the post, then save it.
 
-This is a process Hugo calls "page bundling". You can find out more [here](https://gohugo.io/content-management/page-bundles/)
+This is a process Hugo calls "page bundling". You can find out more [here](https://gohugo.io/content-management/page-bundles/).
 
 When you run your site locally, you should be able to find your tag at the bottom of the post, and clicking it will bring you to a page with other posts that also have the tag.
 
